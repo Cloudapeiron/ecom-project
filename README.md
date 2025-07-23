@@ -1,4 +1,4 @@
-# 🛒 Working on service itegration
+# 🛒 Working on cloud service integration
 
 **Technologies:** Java 17+ | Spring Boot | Gradle | AWS | Docker | PostgreSQL | REST API
 
