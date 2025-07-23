@@ -1,0 +1,22 @@
+# Gradle
+.gradle/
+build/
+
+# IDE files
+*.iml
+.idea/
+*.ipr
+*.iws
+*.class
+
+# Logs
+*.log
+
+# Terraform
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# OS files
+.DS_Store
+
