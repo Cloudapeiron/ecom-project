@@ -1,4 +1,4 @@
-# 🛒 Project just using services
+# 🛒 Working on service itegration
 
 **Technologies:** Java 17+ | Spring Boot | Gradle | AWS | Docker | PostgreSQL | REST API
 
