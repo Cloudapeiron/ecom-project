@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Backend API
+# 🛒 Project just using services
 
 **Technologies:** Java 17+ | Spring Boot | Gradle | AWS | Docker | PostgreSQL | REST API
 
@@ -10,7 +10,7 @@ A modern, cloud-native RESTful API backend for an e-commerce application built w
 
 ### **Core AWS Services Integration**
 
-Our e-commerce backend leverages a comprehensive AWS ecosystem designed for enterprise-scale performance, security, and reliability.
+Our e-com backend leverages a comprehensive AWS ecosystem designed for enterprise-scale performance, security, and reliability.
 
 **Frontend Layer:**
 - **AWS API Gateway** handles all incoming requests with built-in rate limiting, request validation, and authentication
