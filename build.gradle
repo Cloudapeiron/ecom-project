@@ -13,9 +13,16 @@ repositories {
 }
 
 dependencies {
+    // Spring Boot
     implementation 'org.springframework.boot:spring-boot-starter-web'
+
+    // AWS SDK v2
     implementation 'software.amazon.awssdk:s3:2.20.13'
     implementation 'software.amazon.awssdk:ssm:2.20.13'
+    implementation 'software.amazon.awssdk:dynamodb:2.20.13'
+    implementation 'software.amazon.awssdk:lambda:2.20.13'
+
+    // Spring Boot Testing
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
 
